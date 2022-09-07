@@ -73,7 +73,8 @@ header > p > strong > a{
 
 .secao2{
     background-image: url(imagens/background001.jpg);
-    background-position: center ;
+    background-size: cover;
+    background-position: center right ;
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: white;
@@ -93,7 +94,8 @@ header > p > strong > a{
 .secao4{
     padding: 20px;
     background-image: url(imagens/background002.jpg);
-    background-position: center;
+    background-size: cover;
+    background-position: center right; 
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: white;
